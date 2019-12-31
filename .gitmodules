@@ -1,0 +1,6 @@
+[submodule "quickstart/hugo-travelify-theme"]
+	path = quickstart/hugo-travelify-theme
+	url = https://github.com/balaramadurai/hugo-travelify-theme
+[submodule "quickstart/themes/travelify"]
+	path = quickstart/themes/travelify
+	url = https://github.com/balaramadurai/hugo-travelify-theme
